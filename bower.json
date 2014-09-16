@@ -10,6 +10,6 @@
     "tests"
   ],
   "dependencies": {
-    "sinonjs": "~1.10.0"
+    "sinonjs": "~1.10.2"
   }
 }
